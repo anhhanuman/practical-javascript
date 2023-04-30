@@ -19,5 +19,5 @@ techniques and real scenarios that I applied in test automation scripts. Try to 
 
 
 ### Lodash
-1. how to filter duplicates from an array? (answer)[https://masteringjs.io/tutorials/lodash/filter-duplicates]
+1. how to filter duplicates from an array? [answer](https://masteringjs.io/tutorials/lodash/filter-duplicates)
 
