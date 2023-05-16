@@ -1,3 +1,5 @@
+Be careful before this function, if you have any line of code, ensure that you have the **;**
+
 ```js
 (async () => {
     try {
